@@ -1,0 +1,47 @@
+{
+  "basics":{
+    "name":"priyanka priya",
+    "email":"gusidipriyanka26@gmail.com",
+    "mobile":"9876543218"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B.Tech(C.S.E)",
+      "institute":"Avanthi",
+      "data":["2015-19","76%"]
+    },
+  {
+    "degree":"intermediate/diploma",
+    "institute":"srichaitanya,gajuwaka",
+    "data":["2013-15","88%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"R.B.S",
+    "data":["2012-13","88%"]
+  }
+],
+"skills":
+  [
+    {
+  "title":"Programming Languages",
+  "info":["C","c++","java","perl"]
+},
+{
+  "title":"database",
+  "info":["mongoDB","CSS3","javascript"]
+},
+{
+  "title":"web technologies",
+  "info":["HTML5","CSS3","javascript"]
+},
+{
+  "title":"libraries and framework",
+  "info":["angular","ionic",".net"]
+}
+
+]
+}
